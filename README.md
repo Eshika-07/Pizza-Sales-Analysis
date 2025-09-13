@@ -20,6 +20,7 @@ The process involved:
 
 ## Solutions to Relevant Questions
 The analysis answers key business questions such as:
+
 **1.** **The total number of orders placed**
 ```sql
 SELECT count(order_id) as total_orders from orders;

@@ -1,4 +1,4 @@
-![Pizza Sales Analysis](images/pizza_sales_analysis.png)
+![Pizza Sales Analysis](pizza_sale_analysis.png)
 
 # Pizza Sales Analysis – MySQL Project
 
